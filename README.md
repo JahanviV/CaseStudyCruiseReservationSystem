@@ -1,3 +1,3 @@
 # CaseStudyCruiseReservationSystem
 Cruise Reservation System 
-Author - Jahanvi Varshney 
+Author - Jahanvi Varshney demo
